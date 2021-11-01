@@ -1,5 +1,5 @@
 a = [2, 4, 5, 7, 8]
-b = ['Pedro', 'Joao', 'Tiago', 'Marcio', 'Felipe3']
+b = ['Pedro', 'Joao', 'Tiago', 'Marcio', 'Felipe']
 e = [0, 1, 2, 3, 4]
 
 print('----------------\n'
