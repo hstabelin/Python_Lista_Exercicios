@@ -1,4 +1,5 @@
-#! python
+# Faça um programa que leia 5 números e informe o maior número
+
 a = int(input('Informe um número: '))
 b = int(input('Informe um número: '))
 c = int(input('Informe um número: '))

@@ -1,3 +1,6 @@
+# Faça um programa que receba dois números inteiros e gere os números
+#  inteiros que estão no intervalo compreendido por eles
+
 a = int(input('Informe o primeiro valor: '))
 b = int(input('Informe o segundo valor: '))
 c = [0]

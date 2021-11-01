@@ -1,3 +1,7 @@
+# As Organizações Tabajara resolveram dar um aumento de salário aos
+#  seus colaboradores e lhe contraram para desenvolver o programa
+# que calculará os reajustes.
+
 a = float(input('Informe o salário atual: '))
 
 faixa1 = 1.2

@@ -1,3 +1,6 @@
+# Tendo como dado de entrada a altura (h) de uma pessoa, construa um
+# algoritmo que calcule seu peso ideal
+
 h = float(input('Informe a sua altura em cms: '))
 
 homem = (72.7 * (h / 100)) - 58
